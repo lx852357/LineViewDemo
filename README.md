@@ -1,5 +1,5 @@
 # LineViewDemo
-### A Android LineView Demo
+### An Android LineView Demo
 - Notice : addAndFormat() should not used in onCreate() directly. Because it prior to onSizeChanged() execute which cannot get the View's high and width.
 
 ### 动态绘制折线图的Demo
